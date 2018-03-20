@@ -1,0 +1,20 @@
+{
+  "name": "easy-curl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "inquirer": "^5.1.0",
+    "inquirer-autocomplete-prompt": "^0.12.2",
+    "node-jq": "^1.2.0",
+    "request-promise-native": "^1.0.5",
+    "trie-search": "^1.0.9",
+    "validator": "^9.4.1"
+  }
+}
